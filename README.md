@@ -1,1 +1,1 @@
-protfolio9211.netlify.app
+https://portfolio9211.netlify.app/
