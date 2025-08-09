@@ -1,6 +1,6 @@
-[submodule "css/landing-page-"]
-    path = css/landing-page-
-    url = http://github.com/HamzaYaisr/landing-page
+[submodule "css/landing-page"]
+  path = css/landing-page
+  url = https://github.com/HamzaYaisr/landing-page.git
 
 [submodule "javascript/assingment 2/java-script-assingment-2"]
     path = javascript/assingment 2/java-script-assingment-2
